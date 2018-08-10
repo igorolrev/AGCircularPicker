@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		366D41AC2CF5FF598C280BC80224C7F0 /* AGCircularPicker-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E52E4F645885ED9EF7456F7E0A94C453 /* AGCircularPicker-dummy.m */; };
-		3E8902575028E22A7AD42B34A73644F3 /* Pods-AGCircularPicker_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C45CD5926454B4445731A6A1ABA500D6 /* Pods-AGCircularPicker_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8E8EBCF646F1A92234FA77C3F015CC18 /* Pods-AGCircularPicker_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 37197DF8F0A190DD20B5E5A6C099043B /* Pods-AGCircularPicker_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9389B4933ED693509F51BF9459E9E716 /* Pods-AGCircularPicker_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BF44D2BE883CF0D7277CD7B1071B1715 /* Pods-AGCircularPicker_Tests-dummy.m */; };
-		A44E291F852AACCBFF6437EA0B9183A9 /* AGCircularPicker-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6BA785243FB63C48EF38AA1710B79CC5 /* AGCircularPicker-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BD35FD16C767A8691B79CF04B0F5F99F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		C91A4FCCA6C0118890C05FC605EA5F8D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		CD434A4F1EFD4E4E0028C9E9 /* AGCenteredFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD434A491EFD4E4E0028C9E9 /* AGCenteredFlowLayout.swift */; };
-		CD434A501EFD4E4E0028C9E9 /* AGCircularPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD434A4A1EFD4E4E0028C9E9 /* AGCircularPicker.swift */; };
-		CD434A511EFD4E4E0028C9E9 /* AGCircularPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD434A4B1EFD4E4E0028C9E9 /* AGCircularPickerView.swift */; };
-		CD434A521EFD4E4E0028C9E9 /* AGCircularPickerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD434A4C1EFD4E4E0028C9E9 /* AGCircularPickerCell.swift */; };
-		CD434A531EFD4E4E0028C9E9 /* AGCircularPickerOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD434A4D1EFD4E4E0028C9E9 /* AGCircularPickerOption.swift */; };
-		CD434A541EFD4E4E0028C9E9 /* AGCircularPickerExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD434A4E1EFD4E4E0028C9E9 /* AGCircularPickerExtensions.swift */; };
-		DFC2CC3042B1697064EEA134F003633F /* Pods-AGCircularPicker_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EB99D3D0BF9DB7C8B5031C40366D7003 /* Pods-AGCircularPicker_Example-dummy.m */; };
-		FEB304960C420AE8FD2574FF93D7DA49 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		00C1685AE1E57DDC1D3D2D0EE7EE94A7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		032A8A555D5B509C21BD43C8C1756391 /* AGCircularPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A9B16E807AC91032D2DB490D6EE29D8 /* AGCircularPickerView.swift */; };
+		3B0C761265B735C9773DB62C9ECD7913 /* Pods-AGCircularPicker_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 408C6B6B862527F311D5F448E08204CC /* Pods-AGCircularPicker_Tests-dummy.m */; };
+		3E8902575028E22A7AD42B34A73644F3 /* Pods-AGCircularPicker_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FDAE9242781F9E1C3ACCEE20CDF30240 /* Pods-AGCircularPicker_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		48E5EE4E2F7B6EF29745AD0771D00100 /* Pods-AGCircularPicker_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FF4AE20643419AD35CBD44AC5CD4023A /* Pods-AGCircularPicker_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7AEBFCBFF7B642A238176DE57030EFCD /* AGCircularPicker-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CD76B3AEB57D1F65A4F9D7EEE412D098 /* AGCircularPicker-dummy.m */; };
+		7EC1280553486222DBCE0D3B9314DD68 /* AGCircularPicker-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DDB196DCFA4CABFC82407B5D5B2958D9 /* AGCircularPicker-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A9CCB23211DF93E9016E4980F298D14C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		AD2F020F123CD06B85496D8089DF06CC /* AGCircularPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C00288A2B881BD07ECCA89AF8B4C25B /* AGCircularPicker.swift */; };
+		B63F498A333D065096FABFC47CF550BE /* AGCircularPickerExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD83F4C37FC506A0F3503CC5569EA62 /* AGCircularPickerExtensions.swift */; };
+		BEC069CB6B00D6D9CF1E75812C67CD4C /* AGCircularPickerOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DC8556F8DEBC2E02530BE563E3E1671 /* AGCircularPickerOption.swift */; };
+		CDBC5D7ED5FB549795BAFE5653C64749 /* AGCircularPickerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D35BB662BBAB4F7B1F0B2A4CE05B1F /* AGCircularPickerCell.swift */; };
+		DFC2CC3042B1697064EEA134F003633F /* Pods-AGCircularPicker_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B4705D0425EACF334D88D76536CB58E /* Pods-AGCircularPicker_Example-dummy.m */; };
+		E48CCE8A5822F6BBF3FBE7DE01E9892C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		E606CE2F9AC268299876A929A4775F38 /* AGCenteredFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = E318D1800220AEEA26E8408BADF3FA29 /* AGCenteredFlowLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,49 +29,59 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 33D750EEB30257F8A583B0098F1BA9A5;
+			remoteGlobalIDString = C050139EFCE89753A4244D07BFC56F90;
 			remoteInfo = AGCircularPicker;
+		};
+		775F27CEDDB8A3E9946887A87F71197B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F129A3297DED74FC1089A6265A2FE4D6;
+			remoteInfo = "Pods-AGCircularPicker_Example";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		030005B92D955FF23E449A8198372578 /* Pods-AGCircularPicker_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AGCircularPicker_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		07835B2D8B1D1CE69D1029A3335CE81C /* Pods_AGCircularPicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AGCircularPicker_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		21DE75DDF9E72D132036C620907D2855 /* Pods-AGCircularPicker_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AGCircularPicker_Example-resources.sh"; sourceTree = "<group>"; };
-		241A1C6E331D15F80CAFCCD96ECE1653 /* Pods-AGCircularPicker_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AGCircularPicker_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		26D639A2DE56B0CBC7D6C3AA4C762260 /* Pods-AGCircularPicker_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AGCircularPicker_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		3500A5334B9527346348CDA786C9F020 /* Pods-AGCircularPicker_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AGCircularPicker_Example-frameworks.sh"; sourceTree = "<group>"; };
-		37033E0AAEC100F5FC43D0DB18853793 /* Pods-AGCircularPicker_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AGCircularPicker_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		37197DF8F0A190DD20B5E5A6C099043B /* Pods-AGCircularPicker_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AGCircularPicker_Tests-umbrella.h"; sourceTree = "<group>"; };
-		5D8CC7EAAE91E9D3FD4DD9BB16A5FE2C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		62A32B2933AF7459418480A937434A13 /* Pods-AGCircularPicker_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AGCircularPicker_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		6BA785243FB63C48EF38AA1710B79CC5 /* AGCircularPicker-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AGCircularPicker-umbrella.h"; sourceTree = "<group>"; };
+		0B74C66C129C179C88273E3804CBE646 /* Pods-AGCircularPicker_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AGCircularPicker_Example-resources.sh"; sourceTree = "<group>"; };
+		0CC50C14A91410E30F07497D35C5492D /* Pods-AGCircularPicker_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AGCircularPicker_Tests-resources.sh"; sourceTree = "<group>"; };
+		11484BDA892BAF674FD20F07B81038A7 /* Pods-AGCircularPicker_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AGCircularPicker_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		13B084CACD53C139A3FDFC2A2BCFBF3A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19D8FEAAE993FAC1FE68BEA28A7CE4D4 /* Pods-AGCircularPicker_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AGCircularPicker_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		2A9B16E807AC91032D2DB490D6EE29D8 /* AGCircularPickerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AGCircularPickerView.swift; path = AGCircularPicker/Classes/AGCircularPickerView.swift; sourceTree = "<group>"; };
+		2C00288A2B881BD07ECCA89AF8B4C25B /* AGCircularPicker.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AGCircularPicker.swift; path = AGCircularPicker/Classes/AGCircularPicker.swift; sourceTree = "<group>"; };
+		2DC88CB049138C5EB7078DA39A1D24A5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34A95DDF24DF17E63DC33BC54EE3CC82 /* Pods-AGCircularPicker_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AGCircularPicker_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		36A321AB96B3A218F433CF824483587B /* Pods-AGCircularPicker_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AGCircularPicker_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		408C6B6B862527F311D5F448E08204CC /* Pods-AGCircularPicker_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AGCircularPicker_Tests-dummy.m"; sourceTree = "<group>"; };
+		41A6AD586CE29D0229A0152109D7E36F /* AGCircularPicker-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AGCircularPicker-prefix.pch"; sourceTree = "<group>"; };
+		43D35BB662BBAB4F7B1F0B2A4CE05B1F /* AGCircularPickerCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AGCircularPickerCell.swift; path = AGCircularPicker/Classes/AGCircularPickerCell.swift; sourceTree = "<group>"; };
+		4B4705D0425EACF334D88D76536CB58E /* Pods-AGCircularPicker_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AGCircularPicker_Example-dummy.m"; sourceTree = "<group>"; };
+		4DC8556F8DEBC2E02530BE563E3E1671 /* AGCircularPickerOption.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AGCircularPickerOption.swift; path = AGCircularPicker/Classes/AGCircularPickerOption.swift; sourceTree = "<group>"; };
+		50582FC2363D2E3B0E20863A407D8AC8 /* Pods-AGCircularPicker_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AGCircularPicker_Tests.modulemap"; sourceTree = "<group>"; };
+		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		716C97627CFCB5C83AE0AD187E724B07 /* Pods_AGCircularPicker_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AGCircularPicker_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		90EA7F9E749086A7FCE96ACB57833D6D /* AGCircularPicker-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AGCircularPicker-prefix.pch"; sourceTree = "<group>"; };
-		91A2C55029B77CD75CE220ECC034216C /* Pods-AGCircularPicker_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AGCircularPicker_Example.release.xcconfig"; sourceTree = "<group>"; };
+		7CB9329F080DFBF026B073C3D13E0408 /* Pods-AGCircularPicker_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AGCircularPicker_Example.modulemap"; sourceTree = "<group>"; };
+		7CEBA5566D24A38E0D31D4EE5F308A12 /* AGCircularPicker.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AGCircularPicker.modulemap; sourceTree = "<group>"; };
+		7FCEE344D7B44B466663CAAC5356AC59 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		8B3FE84C3C6DA50227BA2CD9E5F809D3 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9C45B52E5D741D40968D4E8A6932204C /* Pods-AGCircularPicker_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AGCircularPicker_Tests-resources.sh"; sourceTree = "<group>"; };
-		A6576918E670EC040FA7E5589C5AF178 /* AGCircularPicker.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = AGCircularPicker.modulemap; sourceTree = "<group>"; };
-		AD37961B5991ADEBF1D13D9A0A2705B0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B3AF87A3296558C9CEB5008193FB84EE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BA01CC82ABCAC20A20B4270135203589 /* Pods-AGCircularPicker_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AGCircularPicker_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		BF44D2BE883CF0D7277CD7B1071B1715 /* Pods-AGCircularPicker_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AGCircularPicker_Tests-dummy.m"; sourceTree = "<group>"; };
-		C0BFAE8C4E8981FF2BBA4CA0DB8BF8AE /* Pods-AGCircularPicker_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-AGCircularPicker_Tests.modulemap"; sourceTree = "<group>"; };
-		C45CD5926454B4445731A6A1ABA500D6 /* Pods-AGCircularPicker_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AGCircularPicker_Example-umbrella.h"; sourceTree = "<group>"; };
-		C5758A4061899D40F2DD2D064D6C3B6B /* Pods-AGCircularPicker_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AGCircularPicker_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		C6F06D162AFB0094B81797B843C969DB /* Pods-AGCircularPicker_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-AGCircularPicker_Example.modulemap"; sourceTree = "<group>"; };
+		B89BB270C7275DF6E804C7F3E84A2DF9 /* AGCircularPicker.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AGCircularPicker.xcconfig; sourceTree = "<group>"; };
+		C3C296F674412162D4CCB15AFEC6C4F4 /* Pods-AGCircularPicker_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AGCircularPicker_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		CA5C3E9C33B02A12119A4F22BC1B20E5 /* AGCircularPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AGCircularPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CD434A491EFD4E4E0028C9E9 /* AGCenteredFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AGCenteredFlowLayout.swift; sourceTree = "<group>"; };
-		CD434A4A1EFD4E4E0028C9E9 /* AGCircularPicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AGCircularPicker.swift; sourceTree = "<group>"; };
-		CD434A4B1EFD4E4E0028C9E9 /* AGCircularPickerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AGCircularPickerView.swift; sourceTree = "<group>"; };
-		CD434A4C1EFD4E4E0028C9E9 /* AGCircularPickerCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AGCircularPickerCell.swift; sourceTree = "<group>"; };
-		CD434A4D1EFD4E4E0028C9E9 /* AGCircularPickerOption.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AGCircularPickerOption.swift; sourceTree = "<group>"; };
-		CD434A4E1EFD4E4E0028C9E9 /* AGCircularPickerExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AGCircularPickerExtensions.swift; sourceTree = "<group>"; };
-		E52E4F645885ED9EF7456F7E0A94C453 /* AGCircularPicker-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AGCircularPicker-dummy.m"; sourceTree = "<group>"; };
-		EB99D3D0BF9DB7C8B5031C40366D7003 /* Pods-AGCircularPicker_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AGCircularPicker_Example-dummy.m"; sourceTree = "<group>"; };
-		F3AEDE2F3689E6D4D7786A77A8E5347E /* Pods-AGCircularPicker_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AGCircularPicker_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		FA0EF1F6BDF54A8AAC17AB002B486067 /* AGCircularPicker.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AGCircularPicker.xcconfig; sourceTree = "<group>"; };
+		CC612818BC87BAD623FE2286D9996FA2 /* AGCircularPicker.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = AGCircularPicker.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		CCF45572A7227C003533124AD7EB488A /* Pods-AGCircularPicker_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AGCircularPicker_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		CD76B3AEB57D1F65A4F9D7EEE412D098 /* AGCircularPicker-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AGCircularPicker-dummy.m"; sourceTree = "<group>"; };
+		D4AAA7C57BB9B856673B55195EB80DAA /* Pods-AGCircularPicker_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AGCircularPicker_Example-frameworks.sh"; sourceTree = "<group>"; };
+		D85B6CC24832B32ACFD08E64C1F35E6E /* Pods-AGCircularPicker_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AGCircularPicker_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		DDB196DCFA4CABFC82407B5D5B2958D9 /* AGCircularPicker-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AGCircularPicker-umbrella.h"; sourceTree = "<group>"; };
+		E318D1800220AEEA26E8408BADF3FA29 /* AGCenteredFlowLayout.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AGCenteredFlowLayout.swift; path = AGCircularPicker/Classes/AGCenteredFlowLayout.swift; sourceTree = "<group>"; };
+		EA21AF376B36753239C4D412C87B48AC /* Pods-AGCircularPicker_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AGCircularPicker_Example.release.xcconfig"; sourceTree = "<group>"; };
+		F21053094872B8A2EC9D5753A31A1490 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F8125B134E86656C2552FA065E6F86AF /* Pods-AGCircularPicker_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AGCircularPicker_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		FDAE9242781F9E1C3ACCEE20CDF30240 /* Pods-AGCircularPicker_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AGCircularPicker_Example-umbrella.h"; sourceTree = "<group>"; };
+		FF4AE20643419AD35CBD44AC5CD4023A /* Pods-AGCircularPicker_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AGCircularPicker_Tests-umbrella.h"; sourceTree = "<group>"; };
+		FFD83F4C37FC506A0F3503CC5569EA62 /* AGCircularPickerExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AGCircularPickerExtensions.swift; path = AGCircularPicker/Classes/AGCircularPickerExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,35 +89,69 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BD35FD16C767A8691B79CF04B0F5F99F /* Foundation.framework in Frameworks */,
+				E48CCE8A5822F6BBF3FBE7DE01E9892C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		60630DDDEB78F2E4B592D2EFE426CE09 /* Frameworks */ = {
+		52C1B43817B90038C02EC81C656BEDC1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FEB304960C420AE8FD2574FF93D7DA49 /* Foundation.framework in Frameworks */,
+				A9CCB23211DF93E9016E4980F298D14C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7DB8B2005B17E9B1E587A563F751D8F8 /* Frameworks */ = {
+		990CD4E5E2231F7CEAED6F4115E0880D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C91A4FCCA6C0118890C05FC605EA5F8D /* Foundation.framework in Frameworks */,
+				00C1685AE1E57DDC1D3D2D0EE7EE94A7 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1BBEFC878245B87EE9EF88E764AA0351 /* AGCircularPicker */ = {
+		01656A2CEB8E75014195159E16A52BF8 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				CAFC2717DBDA6C088A6C72E1ED8A00D4 /* Classes */,
+				7CEBA5566D24A38E0D31D4EE5F308A12 /* AGCircularPicker.modulemap */,
+				B89BB270C7275DF6E804C7F3E84A2DF9 /* AGCircularPicker.xcconfig */,
+				CD76B3AEB57D1F65A4F9D7EEE412D098 /* AGCircularPicker-dummy.m */,
+				41A6AD586CE29D0229A0152109D7E36F /* AGCircularPicker-prefix.pch */,
+				DDB196DCFA4CABFC82407B5D5B2958D9 /* AGCircularPicker-umbrella.h */,
+				8B3FE84C3C6DA50227BA2CD9E5F809D3 /* Info.plist */,
 			);
-			path = AGCircularPicker;
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/AGCircularPicker";
+			sourceTree = "<group>";
+		};
+		1A6FD5A963D391F3D281A579C46E8C5D /* Pods-AGCircularPicker_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				2DC88CB049138C5EB7078DA39A1D24A5 /* Info.plist */,
+				50582FC2363D2E3B0E20863A407D8AC8 /* Pods-AGCircularPicker_Tests.modulemap */,
+				11484BDA892BAF674FD20F07B81038A7 /* Pods-AGCircularPicker_Tests-acknowledgements.markdown */,
+				F8125B134E86656C2552FA065E6F86AF /* Pods-AGCircularPicker_Tests-acknowledgements.plist */,
+				408C6B6B862527F311D5F448E08204CC /* Pods-AGCircularPicker_Tests-dummy.m */,
+				34A95DDF24DF17E63DC33BC54EE3CC82 /* Pods-AGCircularPicker_Tests-frameworks.sh */,
+				0CC50C14A91410E30F07497D35C5492D /* Pods-AGCircularPicker_Tests-resources.sh */,
+				FF4AE20643419AD35CBD44AC5CD4023A /* Pods-AGCircularPicker_Tests-umbrella.h */,
+				19D8FEAAE993FAC1FE68BEA28A7CE4D4 /* Pods-AGCircularPicker_Tests.debug.xcconfig */,
+				36A321AB96B3A218F433CF824483587B /* Pods-AGCircularPicker_Tests.release.xcconfig */,
+			);
+			name = "Pods-AGCircularPicker_Tests";
+			path = "Target Support Files/Pods-AGCircularPicker_Tests";
+			sourceTree = "<group>";
+		};
+		44825146B0F49086DBD6CB086E4EBF70 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				CC612818BC87BAD623FE2286D9996FA2 /* AGCircularPicker.podspec */,
+				7FCEE344D7B44B466663CAAC5356AC59 /* LICENSE */,
+				F21053094872B8A2EC9D5753A31A1490 /* README.md */,
+			);
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		4BBC0243294C772E7829DA3E4D5AAA6F /* Products */ = {
@@ -120,72 +164,48 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4E7AD806CFAB9A0A60B41B0126BD01BE /* Pods-AGCircularPicker_Example */ = {
+		5E0D919E635D23B70123790B8308F8EF /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				B3AF87A3296558C9CEB5008193FB84EE /* Info.plist */,
-				C6F06D162AFB0094B81797B843C969DB /* Pods-AGCircularPicker_Example.modulemap */,
-				C5758A4061899D40F2DD2D064D6C3B6B /* Pods-AGCircularPicker_Example-acknowledgements.markdown */,
-				BA01CC82ABCAC20A20B4270135203589 /* Pods-AGCircularPicker_Example-acknowledgements.plist */,
-				EB99D3D0BF9DB7C8B5031C40366D7003 /* Pods-AGCircularPicker_Example-dummy.m */,
-				3500A5334B9527346348CDA786C9F020 /* Pods-AGCircularPicker_Example-frameworks.sh */,
-				21DE75DDF9E72D132036C620907D2855 /* Pods-AGCircularPicker_Example-resources.sh */,
-				C45CD5926454B4445731A6A1ABA500D6 /* Pods-AGCircularPicker_Example-umbrella.h */,
-				37033E0AAEC100F5FC43D0DB18853793 /* Pods-AGCircularPicker_Example.debug.xcconfig */,
-				91A2C55029B77CD75CE220ECC034216C /* Pods-AGCircularPicker_Example.release.xcconfig */,
+				5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		710A4F480F778DAE0146E9E176B03E73 /* Pods-AGCircularPicker_Example */ = {
+			isa = PBXGroup;
+			children = (
+				13B084CACD53C139A3FDFC2A2BCFBF3A /* Info.plist */,
+				7CB9329F080DFBF026B073C3D13E0408 /* Pods-AGCircularPicker_Example.modulemap */,
+				C3C296F674412162D4CCB15AFEC6C4F4 /* Pods-AGCircularPicker_Example-acknowledgements.markdown */,
+				CCF45572A7227C003533124AD7EB488A /* Pods-AGCircularPicker_Example-acknowledgements.plist */,
+				4B4705D0425EACF334D88D76536CB58E /* Pods-AGCircularPicker_Example-dummy.m */,
+				D4AAA7C57BB9B856673B55195EB80DAA /* Pods-AGCircularPicker_Example-frameworks.sh */,
+				0B74C66C129C179C88273E3804CBE646 /* Pods-AGCircularPicker_Example-resources.sh */,
+				FDAE9242781F9E1C3ACCEE20CDF30240 /* Pods-AGCircularPicker_Example-umbrella.h */,
+				D85B6CC24832B32ACFD08E64C1F35E6E /* Pods-AGCircularPicker_Example.debug.xcconfig */,
+				EA21AF376B36753239C4D412C87B48AC /* Pods-AGCircularPicker_Example.release.xcconfig */,
 			);
 			name = "Pods-AGCircularPicker_Example";
 			path = "Target Support Files/Pods-AGCircularPicker_Example";
-			sourceTree = "<group>";
-		};
-		6D56D4AB5C4F213811BF348D6399349B /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				A6576918E670EC040FA7E5589C5AF178 /* AGCircularPicker.modulemap */,
-				FA0EF1F6BDF54A8AAC17AB002B486067 /* AGCircularPicker.xcconfig */,
-				E52E4F645885ED9EF7456F7E0A94C453 /* AGCircularPicker-dummy.m */,
-				90EA7F9E749086A7FCE96ACB57833D6D /* AGCircularPicker-prefix.pch */,
-				6BA785243FB63C48EF38AA1710B79CC5 /* AGCircularPicker-umbrella.h */,
-				AD37961B5991ADEBF1D13D9A0A2705B0 /* Info.plist */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/AGCircularPicker";
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				CF0BDB84E0CD223BCE3CA658C6AD2DD4 /* Development Pods */,
+				E9EFF0756AC73C6324D54AC9D3DAAAD4 /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				4BBC0243294C772E7829DA3E4D5AAA6F /* Products */,
 				8E868665015DE2A5A14878D94D572E7C /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		825895F2486F8025A83EBC5DDC72681F /* Pods-AGCircularPicker_Tests */ = {
-			isa = PBXGroup;
-			children = (
-				5D8CC7EAAE91E9D3FD4DD9BB16A5FE2C /* Info.plist */,
-				C0BFAE8C4E8981FF2BBA4CA0DB8BF8AE /* Pods-AGCircularPicker_Tests.modulemap */,
-				241A1C6E331D15F80CAFCCD96ECE1653 /* Pods-AGCircularPicker_Tests-acknowledgements.markdown */,
-				62A32B2933AF7459418480A937434A13 /* Pods-AGCircularPicker_Tests-acknowledgements.plist */,
-				BF44D2BE883CF0D7277CD7B1071B1715 /* Pods-AGCircularPicker_Tests-dummy.m */,
-				030005B92D955FF23E449A8198372578 /* Pods-AGCircularPicker_Tests-frameworks.sh */,
-				9C45B52E5D741D40968D4E8A6932204C /* Pods-AGCircularPicker_Tests-resources.sh */,
-				37197DF8F0A190DD20B5E5A6C099043B /* Pods-AGCircularPicker_Tests-umbrella.h */,
-				F3AEDE2F3689E6D4D7786A77A8E5347E /* Pods-AGCircularPicker_Tests.debug.xcconfig */,
-				26D639A2DE56B0CBC7D6C3AA4C762260 /* Pods-AGCircularPicker_Tests.release.xcconfig */,
-			);
-			name = "Pods-AGCircularPicker_Tests";
-			path = "Target Support Files/Pods-AGCircularPicker_Tests";
-			sourceTree = "<group>";
-		};
 		8E868665015DE2A5A14878D94D572E7C /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				4E7AD806CFAB9A0A60B41B0126BD01BE /* Pods-AGCircularPicker_Example */,
-				825895F2486F8025A83EBC5DDC72681F /* Pods-AGCircularPicker_Tests */,
+				710A4F480F778DAE0146E9E176B03E73 /* Pods-AGCircularPicker_Example */,
+				1A6FD5A963D391F3D281A579C46E8C5D /* Pods-AGCircularPicker_Tests */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
@@ -193,66 +213,51 @@
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
+				5E0D919E635D23B70123790B8308F8EF /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		CAFC2717DBDA6C088A6C72E1ED8A00D4 /* Classes */ = {
+		E39D7A4C48B64D80577AE7B24F35FFBC /* AGCircularPicker */ = {
 			isa = PBXGroup;
 			children = (
-				CD434A4A1EFD4E4E0028C9E9 /* AGCircularPicker.swift */,
-				CD434A4B1EFD4E4E0028C9E9 /* AGCircularPickerView.swift */,
-				CD434A4C1EFD4E4E0028C9E9 /* AGCircularPickerCell.swift */,
-				CD434A4D1EFD4E4E0028C9E9 /* AGCircularPickerOption.swift */,
-				CD434A4E1EFD4E4E0028C9E9 /* AGCircularPickerExtensions.swift */,
-				CD434A491EFD4E4E0028C9E9 /* AGCenteredFlowLayout.swift */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		CF0BDB84E0CD223BCE3CA658C6AD2DD4 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				F260F83119F1933DD8F2A964F7F7F774 /* AGCircularPicker */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
-		F260F83119F1933DD8F2A964F7F7F774 /* AGCircularPicker */ = {
-			isa = PBXGroup;
-			children = (
-				1BBEFC878245B87EE9EF88E764AA0351 /* AGCircularPicker */,
-				6D56D4AB5C4F213811BF348D6399349B /* Support Files */,
+				E318D1800220AEEA26E8408BADF3FA29 /* AGCenteredFlowLayout.swift */,
+				2C00288A2B881BD07ECCA89AF8B4C25B /* AGCircularPicker.swift */,
+				43D35BB662BBAB4F7B1F0B2A4CE05B1F /* AGCircularPickerCell.swift */,
+				FFD83F4C37FC506A0F3503CC5569EA62 /* AGCircularPickerExtensions.swift */,
+				4DC8556F8DEBC2E02530BE563E3E1671 /* AGCircularPickerOption.swift */,
+				2A9B16E807AC91032D2DB490D6EE29D8 /* AGCircularPickerView.swift */,
+				44825146B0F49086DBD6CB086E4EBF70 /* Pod */,
+				01656A2CEB8E75014195159E16A52BF8 /* Support Files */,
 			);
 			name = AGCircularPicker;
 			path = ../..;
 			sourceTree = "<group>";
 		};
+		E9EFF0756AC73C6324D54AC9D3DAAAD4 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E39D7A4C48B64D80577AE7B24F35FFBC /* AGCircularPicker */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		43B5C767E5801618FE6D8EA798BA649A /* Headers */ = {
+		39AB7F36BD7DA45D1CC7995E1A54BE03 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8E8EBCF646F1A92234FA77C3F015CC18 /* Pods-AGCircularPicker_Tests-umbrella.h in Headers */,
+				48E5EE4E2F7B6EF29745AD0771D00100 /* Pods-AGCircularPicker_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		60F307F7933040CCD11BBFEED51C4FC9 /* Headers */ = {
+		8481396F3BE2D854ED3D4A3000443EBE /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A44E291F852AACCBFF6437EA0B9183A9 /* AGCircularPicker-umbrella.h in Headers */,
+				7EC1280553486222DBCE0D3B9314DD68 /* AGCircularPicker-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,13 +272,31 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		33D750EEB30257F8A583B0098F1BA9A5 /* AGCircularPicker */ = {
+		97A330845FB65DAFDE993359C701DA9D /* Pods-AGCircularPicker_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 28DF3FFEA78360FCCBF172A38C69F9A7 /* Build configuration list for PBXNativeTarget "AGCircularPicker" */;
+			buildConfigurationList = 529ABD8EDEB5F217A4C6F0F7572E62AB /* Build configuration list for PBXNativeTarget "Pods-AGCircularPicker_Tests" */;
 			buildPhases = (
-				E942E3DA336B30B8E0098974FFAE0888 /* Sources */,
-				7DB8B2005B17E9B1E587A563F751D8F8 /* Frameworks */,
-				60F307F7933040CCD11BBFEED51C4FC9 /* Headers */,
+				C1F066176E04AF65C4FE1907AE1E79B0 /* Sources */,
+				990CD4E5E2231F7CEAED6F4115E0880D /* Frameworks */,
+				39AB7F36BD7DA45D1CC7995E1A54BE03 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C4A3601491CD91BCBBA79C4823237E69 /* PBXTargetDependency */,
+			);
+			name = "Pods-AGCircularPicker_Tests";
+			productName = "Pods-AGCircularPicker_Tests";
+			productReference = 716C97627CFCB5C83AE0AD187E724B07 /* Pods_AGCircularPicker_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		C050139EFCE89753A4244D07BFC56F90 /* AGCircularPicker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 98B48751FEF29A89384DC2649EA6D0F0 /* Build configuration list for PBXNativeTarget "AGCircularPicker" */;
+			buildPhases = (
+				FA66A6B6480BE45A35048665F8A54096 /* Sources */,
+				52C1B43817B90038C02EC81C656BEDC1 /* Frameworks */,
+				8481396F3BE2D854ED3D4A3000443EBE /* Headers */,
 			);
 			buildRules = (
 			);
@@ -282,23 +305,6 @@
 			name = AGCircularPicker;
 			productName = AGCircularPicker;
 			productReference = CA5C3E9C33B02A12119A4F22BC1B20E5 /* AGCircularPicker.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		A8DD0C4DE5B6C687A5656A7FD341CCBC /* Pods-AGCircularPicker_Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = FE1DAC9F8547C0CB432B8F1736886E0C /* Build configuration list for PBXNativeTarget "Pods-AGCircularPicker_Tests" */;
-			buildPhases = (
-				ADCE5480BE42DAC6A25648525C842E2C /* Sources */,
-				60630DDDEB78F2E4B592D2EFE426CE09 /* Frameworks */,
-				43B5C767E5801618FE6D8EA798BA649A /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Pods-AGCircularPicker_Tests";
-			productName = "Pods-AGCircularPicker_Tests";
-			productReference = 716C97627CFCB5C83AE0AD187E724B07 /* Pods_AGCircularPicker_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		F129A3297DED74FC1089A6265A2FE4D6 /* Pods-AGCircularPicker_Example */ = {
@@ -325,8 +331,13 @@
 		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+				TargetAttributes = {
+					C050139EFCE89753A4244D07BFC56F90 = {
+						LastSwiftMigration = 0940;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -340,9 +351,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				33D750EEB30257F8A583B0098F1BA9A5 /* AGCircularPicker */,
+				C050139EFCE89753A4244D07BFC56F90 /* AGCircularPicker */,
 				F129A3297DED74FC1089A6265A2FE4D6 /* Pods-AGCircularPicker_Example */,
-				A8DD0C4DE5B6C687A5656A7FD341CCBC /* Pods-AGCircularPicker_Tests */,
+				97A330845FB65DAFDE993359C701DA9D /* Pods-AGCircularPicker_Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -356,25 +367,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ADCE5480BE42DAC6A25648525C842E2C /* Sources */ = {
+		C1F066176E04AF65C4FE1907AE1E79B0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9389B4933ED693509F51BF9459E9E716 /* Pods-AGCircularPicker_Tests-dummy.m in Sources */,
+				3B0C761265B735C9773DB62C9ECD7913 /* Pods-AGCircularPicker_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E942E3DA336B30B8E0098974FFAE0888 /* Sources */ = {
+		FA66A6B6480BE45A35048665F8A54096 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD434A521EFD4E4E0028C9E9 /* AGCircularPickerCell.swift in Sources */,
-				CD434A511EFD4E4E0028C9E9 /* AGCircularPickerView.swift in Sources */,
-				CD434A501EFD4E4E0028C9E9 /* AGCircularPicker.swift in Sources */,
-				CD434A4F1EFD4E4E0028C9E9 /* AGCenteredFlowLayout.swift in Sources */,
-				CD434A541EFD4E4E0028C9E9 /* AGCircularPickerExtensions.swift in Sources */,
-				366D41AC2CF5FF598C280BC80224C7F0 /* AGCircularPicker-dummy.m in Sources */,
-				CD434A531EFD4E4E0028C9E9 /* AGCircularPickerOption.swift in Sources */,
+				E606CE2F9AC268299876A929A4775F38 /* AGCenteredFlowLayout.swift in Sources */,
+				7AEBFCBFF7B642A238176DE57030EFCD /* AGCircularPicker-dummy.m in Sources */,
+				AD2F020F123CD06B85496D8089DF06CC /* AGCircularPicker.swift in Sources */,
+				CDBC5D7ED5FB549795BAFE5653C64749 /* AGCircularPickerCell.swift in Sources */,
+				B63F498A333D065096FABFC47CF550BE /* AGCircularPickerExtensions.swift in Sources */,
+				BEC069CB6B00D6D9CF1E75812C67CD4C /* AGCircularPickerOption.swift in Sources */,
+				032A8A555D5B509C21BD43C8C1756391 /* AGCircularPickerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -384,339 +395,369 @@
 		68D00332676F6F2320994828330E6FC8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = AGCircularPicker;
-			target = 33D750EEB30257F8A583B0098F1BA9A5 /* AGCircularPicker */;
+			target = C050139EFCE89753A4244D07BFC56F90 /* AGCircularPicker */;
 			targetProxy = 70953A0D328E6FE407C606373790FA1F /* PBXContainerItemProxy */;
+		};
+		C4A3601491CD91BCBBA79C4823237E69 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-AGCircularPicker_Example";
+			target = F129A3297DED74FC1089A6265A2FE4D6 /* Pods-AGCircularPicker_Example */;
+			targetProxy = 775F27CEDDB8A3E9946887A87F71197B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		2AC41B7C3CFBACBE00C8408C17ADF7FB /* Release */ = {
+		5A4C85A725840D0AD41804CDA476EA59 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 26D639A2DE56B0CBC7D6C3AA4C762260 /* Pods-AGCircularPicker_Tests.release.xcconfig */;
+			baseConfigurationReference = EA21AF376B36753239C4D412C87B48AC /* Pods-AGCircularPicker_Example.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-AGCircularPicker_Tests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-AGCircularPicker_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-AGCircularPicker_Tests/Pods-AGCircularPicker_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
+				MODULEMAP_FILE = "Target Support Files/Pods-AGCircularPicker_Example/Pods-AGCircularPicker_Example.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_AGCircularPicker_Tests;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
-		2C9E6D7E99DB317561CB6996CFD56EA8 /* Debug */ = {
+		60FB92955BB09EB5CC81923070DFB307 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 37033E0AAEC100F5FC43D0DB18853793 /* Pods-AGCircularPicker_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		67C342758DBAAFF5D74C7EF94A31323E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B89BB270C7275DF6E804C7F3E84A2DF9 /* AGCircularPicker.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-AGCircularPicker_Example/Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/AGCircularPicker/AGCircularPicker-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/AGCircularPicker/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-AGCircularPicker_Example/Pods-AGCircularPicker_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_AGCircularPicker_Example;
+				MODULEMAP_FILE = "Target Support Files/AGCircularPicker/AGCircularPicker.modulemap";
+				PRODUCT_MODULE_NAME = AGCircularPicker;
+				PRODUCT_NAME = AGCircularPicker;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		345CC476DF4A7516DBD2220CF5035FF3 /* Debug */ = {
+		6BA03D099B856B830EFB9DF0E701B301 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 19D8FEAAE993FAC1FE68BEA28A7CE4D4 /* Pods-AGCircularPicker_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-AGCircularPicker_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AGCircularPicker_Tests/Pods-AGCircularPicker_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		7E303F336AF1EDCE08CCD98DE0D3DD37 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_DEBUG=1",
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
-				STRIP_INSTALLED_PRODUCT = NO;
-				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Debug;
-		};
-		717E77604BFBB04BEAF56608A1CB2EDE /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGNING_REQUIRED = NO;
-				COPY_PHASE_STRIP = YES;
-				ENABLE_NS_ASSERTIONS = NO;
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"POD_CONFIGURATION_RELEASE=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
-				STRIP_INSTALLED_PRODUCT = NO;
-				SYMROOT = "${SRCROOT}/../build";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		8BC35F5465A01811C411AE347EA65DB9 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FA0EF1F6BDF54A8AAC17AB002B486067 /* AGCircularPicker.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/AGCircularPicker/AGCircularPicker-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/AGCircularPicker/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/AGCircularPicker/AGCircularPicker.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = AGCircularPicker;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		A20768E70495F4AC969EA038DED4BEB5 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F3AEDE2F3689E6D4D7786A77A8E5347E /* Pods-AGCircularPicker_Tests.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-AGCircularPicker_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-AGCircularPicker_Tests/Pods-AGCircularPicker_Tests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_AGCircularPicker_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		E4C79106CE016396F77683C9D23B90C5 /* Release */ = {
+		AF5CC61FD3E13E3FE5FBDF7CC8D4129C /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 91A2C55029B77CD75CE220ECC034216C /* Pods-AGCircularPicker_Example.release.xcconfig */;
+			baseConfigurationReference = D85B6CC24832B32ACFD08E64C1F35E6E /* Pods-AGCircularPicker_Example.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = "Target Support Files/Pods-AGCircularPicker_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-AGCircularPicker_Example/Pods-AGCircularPicker_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_AGCircularPicker_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		FC45FE57E5EC789B07013E5E6AECAF64 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FA0EF1F6BDF54A8AAC17AB002B486067 /* AGCircularPicker.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/AGCircularPicker/AGCircularPicker-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/AGCircularPicker/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/AGCircularPicker/AGCircularPicker.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = AGCircularPicker;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
+		BDFB95BE58360B63EA8047B7F78880DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 36A321AB96B3A218F433CF824483587B /* Pods-AGCircularPicker_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-AGCircularPicker_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AGCircularPicker_Tests/Pods-AGCircularPicker_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		DBF8489B8F6DB17872934DD1C80CB141 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B89BB270C7275DF6E804C7F3E84A2DF9 /* AGCircularPicker.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/AGCircularPicker/AGCircularPicker-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/AGCircularPicker/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/AGCircularPicker/AGCircularPicker.modulemap";
+				PRODUCT_MODULE_NAME = AGCircularPicker;
+				PRODUCT_NAME = AGCircularPicker;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		28DF3FFEA78360FCCBF172A38C69F9A7 /* Build configuration list for PBXNativeTarget "AGCircularPicker" */ = {
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FC45FE57E5EC789B07013E5E6AECAF64 /* Debug */,
-				8BC35F5465A01811C411AE347EA65DB9 /* Release */,
+				7E303F336AF1EDCE08CCD98DE0D3DD37 /* Debug */,
+				60FB92955BB09EB5CC81923070DFB307 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+		529ABD8EDEB5F217A4C6F0F7572E62AB /* Build configuration list for PBXNativeTarget "Pods-AGCircularPicker_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				345CC476DF4A7516DBD2220CF5035FF3 /* Debug */,
-				717E77604BFBB04BEAF56608A1CB2EDE /* Release */,
+				6BA03D099B856B830EFB9DF0E701B301 /* Debug */,
+				BDFB95BE58360B63EA8047B7F78880DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		98B48751FEF29A89384DC2649EA6D0F0 /* Build configuration list for PBXNativeTarget "AGCircularPicker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				67C342758DBAAFF5D74C7EF94A31323E /* Debug */,
+				DBF8489B8F6DB17872934DD1C80CB141 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -724,17 +765,8 @@
 		A607A106B8FB16A78343D94CA39100C5 /* Build configuration list for PBXNativeTarget "Pods-AGCircularPicker_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2C9E6D7E99DB317561CB6996CFD56EA8 /* Debug */,
-				E4C79106CE016396F77683C9D23B90C5 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		FE1DAC9F8547C0CB432B8F1736886E0C /* Build configuration list for PBXNativeTarget "Pods-AGCircularPicker_Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				A20768E70495F4AC969EA038DED4BEB5 /* Debug */,
-				2AC41B7C3CFBACBE00C8408C17ADF7FB /* Release */,
+				AF5CC61FD3E13E3FE5FBDF7CC8D4129C /* Debug */,
+				5A4C85A725840D0AD41804CDA476EA59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

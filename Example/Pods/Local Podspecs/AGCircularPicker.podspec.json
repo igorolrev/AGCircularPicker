@@ -1,9 +1,8 @@
 {
   "name": "AGCircularPicker",
-  "version": "0.1.0",
-  "summary": "A short description of AGCircularPicker.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/savilov/AGCircularPicker",
+  "version": "0.1.8",
+  "summary": "AGCircularPicker is helpful for creating a controller aimed to manage any calculated parameter",
+  "homepage": "https://github.com/agilie/AGCircularPicker.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +11,11 @@
     "savilov": "sergii.avilov@agilie.com"
   },
   "source": {
-    "git": "https://github.com/savilov/AGCircularPicker.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/agilie/AGCircularPicker.git",
+    "tag": "0.1.8"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "8.2"
   },
   "source_files": "AGCircularPicker/Classes/**/*"
 }

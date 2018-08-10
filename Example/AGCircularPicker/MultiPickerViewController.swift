@@ -52,12 +52,12 @@ extension MultiPickerViewController: AGCircularPickerDelegate {
         let fullString = valueComponents.joined(separator: ":")
         let attributedString = NSMutableAttributedString(string:fullString)
         let fullRange = (fullString as NSString).range(of: fullString)
-        attributedString.addAttribute(NSForegroundColorAttributeName, value: UIColor.white.withAlphaComponent(0.5), range: fullRange)
-        attributedString.addAttribute(NSFontAttributeName, value: UIFont.systemFont(ofSize: 28, weight: UIFontWeightBold), range: fullRange)
+        attributedString.addAttribute(NSAttributedStringKey.foregroundColor, value: UIColor.white.withAlphaComponent(0.5), range: fullRange)
+        attributedString.addAttribute(NSAttributedStringKey.font, value: UIFont.systemFont(ofSize: 28, weight: UIFont.Weight.bold), range: fullRange)
         
         let range = NSMakeRange(selectedIndex * 2 + selectedIndex, 2)
-        attributedString.addAttribute(NSForegroundColorAttributeName, value: values[selectedIndex].color, range: range)
-        attributedString.addAttribute(NSFontAttributeName, value: UIFont.systemFont(ofSize: 35, weight: UIFontWeightBlack), range: range)
+        attributedString.addAttribute(NSAttributedStringKey.foregroundColor, value: values[selectedIndex].color, range: range)
+        attributedString.addAttribute(NSAttributedStringKey.font, value: UIFont.systemFont(ofSize: 35, weight: UIFont.Weight.black), range: range)
         
         titleLabel.attributedText = attributedString
     }
